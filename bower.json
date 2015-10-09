@@ -1,0 +1,23 @@
+{
+  "name": "excelmaps",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Max-One/excelmaps",
+  "authors": [
+    "Maqsoodp <maqsood.pasha7@gmail.com>"
+  ],
+  "description": "Maps",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "modernizr": "~2.8.3",
+    "jquery-2.1.4.min": "http://code.jquery.com/jquery-2.1.4.min.js",
+    "knockout": "~3.3.0"
+  }
+}
